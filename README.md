@@ -1,9 +1,6 @@
-# Get Me A Chai
-
-[https://fund-me-chai.vercel.app](get-me-a-chai)
-
+# Fund Spark
 ## Project Description
-Get Me A Chai is a crowdfunding platform created using Next.js (app route), React, MongoDB, and Node.js. It is designed for developers who need funds to complete their projects. Fans and supporters of developers or project creators can support them by sending funds. Developers need a Razorpay account to receive funds and must generate a client ID and secret. 
+Fund Spark is a crowdfunding platform created using Next.js (app route), React, MongoDB, and Node.js. It is designed for developers who need funds to complete their projects. Fans and supporters of developers or project creators can support them by sending funds. Developers need a Razorpay account to receive funds and must generate a client ID and secret. 
 
 On the dashboard, developers or project creators can provide the project name, description, and link, allowing potential fund givers to learn about the project and decide whether to contribute. The refund policy is entirely at the discretion of the project developers.
 ## Tech Stack
@@ -16,9 +13,7 @@ On the dashboard, developers or project creators can provide the project name, d
 - **Free to Use**: There are no fees for using the platform. Both developers seeking funds and supporters looking to contribute can use the platform without any cost.
 - **Security**: The platform employs robust security measures to protect user data and transactions, ensuring a safe environment for both developers and fund givers.
 - **Raise Funds for Multiple Projects**: Developers can create and manage multiple fundraising campaigns simultaneously, providing flexibility to fund various projects at the same time.
-## Screenshots
-
-
+- 
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env.local file
