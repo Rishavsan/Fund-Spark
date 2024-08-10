@@ -18,9 +18,6 @@ On the dashboard, developers or project creators can provide the project name, d
 - **Raise Funds for Multiple Projects**: Developers can create and manage multiple fundraising campaigns simultaneously, providing flexibility to fund various projects at the same time.
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
 
 ## Environment Variables
 
@@ -34,13 +31,6 @@ GITHUB_ID=<your github id>
 GITHUB_SECRET=<your github secret>
 GOOGLE_ID=<your google id>
 GOOGLE_SECRET=<your google secret>
-```
-## Installation
-To install this project into your local machine run this command
-
-Clone the repository:
-   ```bash
-   git clone https://github.com/Advanced-Boy-Shreyash/Get-Me-A-Chai.git
 ```
 ## Run Locally
 - Go into the folder you have installed this project and proceed with following procedure
@@ -76,5 +66,3 @@ Clone the repository:
 4. Once you find a project you wish to support, click on it to view the project details, including the project name, description, and a link to the project.
 5. If you decide to contribute, click on the 'Pay' button by filling required data and you will be redirected to a secure payment page powered by Razorpay.
 6. After the transaction is successful, you will receive a confirmation of your contribution, and the funds will be directly transferred to the developer's Razorpay account.
-
-Thank you for your interest in Get Me A Chai! We hope this platform helps you successfully fund your projects and support developers in bringing their ideas to life.
