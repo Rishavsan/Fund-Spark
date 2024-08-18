@@ -8,7 +8,7 @@ const UserSchema = new Schema({
     name: { type: String, required: true },
     username: { type: String, required: true, unique: true },
     profilePic: { type: String },
-    coverPic: { type: String, default: "https://cdn.dribbble.com/users/3212981/screenshots/6751662/untitled-10_4x.jpg"},
+    coverPic: { type: String, default: "https://images6.alphacoders.com/131/1315629.png"},
     provider: { type: String },
     razrpayId:{type:String},
     razrpaySecret:{type:String},
